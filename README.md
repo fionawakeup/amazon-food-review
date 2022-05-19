@@ -1,4 +1,5 @@
 # amazon-food-review
+This project aims to classify amazon food reviews. The code includes the following steps. 
 
 ## Data cleaning:
 ### Stemming: words will be transformed to its stem. 
