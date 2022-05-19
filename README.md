@@ -2,8 +2,8 @@
 
 ## Data cleaning:
 ### Stemming: words will be transformed to its stem. 
-### punctuation removal: Punctuation is not needed in this amazon review analysis. 
-### lower case
+### Punctuation removal: Punctuation is not needed in this amazon review analysis. 
+### Lower case
 
 ## Feature Engineering
 ### Text to vector:
